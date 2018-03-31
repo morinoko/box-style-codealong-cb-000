@@ -163,7 +163,18 @@ header {
 }
 #navbar nav a {
   display: inline-block; /* dipslay side by side but with a fixed width */
+  width: 16.666667%;
+  margin: 0;
+  padding: 22px 0;
+  text-transform: uppercase;
+  color: black;
+  text-align: center;
+  border-right: 1px solid #ccc;
+  text-decoration: none;
+  font: 1em "Trebuchet MS", Arial, sans-serif;
 }
+
+#nave
 
 /*////////// LOGO //////////*/
 
