@@ -162,7 +162,7 @@ header {
   border-left: 1px solid #ccc;
 }
 #navbar nav a {
-  display: inline-block;
+  display: inline-block; /* dipslay side by side but with a fixed width */
 }
 
 /*////////// LOGO //////////*/
