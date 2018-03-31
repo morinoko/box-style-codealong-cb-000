@@ -191,7 +191,9 @@ header {
 }
 
 /*////////// LOGO //////////*/
-
+#logo {
+  padding: 84px ;
+}
 
 
 #logo h1 {
